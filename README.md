@@ -44,3 +44,15 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## About project
+Typescript based react project for simple cart functionality.
+calling "https://fakestoreapi.com/products" for data simple error free json for data to display.
+functions 1. add to cart button functionanlity.
+          2. quantity adding functionality.(Inside cart).
+          3. quantity deleting functionality.(Inside cart).
+styled component is used for basic css.(vscode-styled extenstion for quick suggestions).
+A cart drawer functionality is used from material-UI.
+A badge with Badge content prop is used for increasing the cart count. (Major functionality)
+
+
