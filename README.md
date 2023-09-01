@@ -1,1 +1,1 @@
-# practice-typscript
+# react-typescript project simple cart 
